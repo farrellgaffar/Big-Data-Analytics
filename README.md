@@ -1,3 +1,3 @@
 # Big-Data-Analytics
-There are a lot of projects in here and the data that i got was from my lecturer from 
+There is a lot of projects in here and the data that I got was from my lecture
 
